@@ -1,0 +1,6 @@
+# Dev Override Values for my Helm Chart
+
+container:
+  image: serglit72/shporodom:v0.1.4
+
+replicaCount: 4
